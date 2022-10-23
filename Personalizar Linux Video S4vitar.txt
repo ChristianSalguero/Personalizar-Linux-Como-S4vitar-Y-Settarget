@@ -6,8 +6,11 @@
 -																								-
 -------------------------------------------------------------------------------------------------
 
+- TODOS LOS CRÉDITOS SON PARA S4VITAR 
+
 - Cambia los /TuUsuario/ por tu nombre de usuario en que utilices en tu kali/parrot/arch/etc.
 - Cualquier facho que encontréis, notificármelo para poder cambiarlo, gracias.
+- Para tener módulo settarget, ver: https://pastebin.com/FABzmBP9 y el video: https://www.youtube.com/watch?v=vqqFZSmi7Nk 
 
 
 
